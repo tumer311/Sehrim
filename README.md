@@ -1,0 +1,2 @@
+# Sehrim
+Web Teknolojileri Ödevi
